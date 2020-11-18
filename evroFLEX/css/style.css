@@ -256,3 +256,25 @@ p.blok1_logo_txt{
 
 	color: #FFFFFF;
 }
+
+.blokIvan{
+
+    position: absolute;
+    width: 81px;
+    height: 26px;
+    left: 1065px;
+    top: 363px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+
+    display: flex;
+    align-items: center;
+
+    color: #444444;
+
+
+}
