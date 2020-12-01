@@ -257,6 +257,21 @@ p.blok1_logo_txt{
 	color: #FFFFFF;
 }
 
+
+#imddddddddddd p{
+	left: 65px;
+	top: 240px;
+
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 25px;
+
+	display: flex;
+	align-items: center;
+
+	color: #444444;
+}
+
 .blokIvan{
 
     position: absolute;
