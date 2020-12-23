@@ -482,3 +482,92 @@ p.blok1_logo_txt{
 	box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.16), 0px 2px 4px rgba(0, 0, 0, 0.24);
 	border-radius: 4px;
 }
+
+.blok3{
+	position: absolute;
+	width: 1179px;
+	height: 1282px;
+	left: 250px;
+	top: 1538px;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	align-items: center;
+}
+
+.blok3_h{
+	width: 580px;
+	height: 38px;
+	font-weight: 500;
+	font-size: 32px;
+	line-height: 37px;
+	color: #646566;
+	align-items: center;
+	text-align: center;
+}
+
+.card{
+	margin-top: 60px;
+	position: absolute;
+	width: 1179px;
+	height: 860px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+.card_row{
+	width: 275px;
+	height: 860px;
+	margin-right: 27px;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	align-items: center;
+}
+
+.card_content{
+	width: 273px;
+	height: 260px;
+	margin-top: 20px;
+}
+
+#card1{
+	background: url('../images/1.svg') no-repeat center;
+}
+
+#card2{
+	background: url('../images/2.svg') no-repeat center;
+}
+
+#card3{
+	background: url('../images/3.svg') no-repeat center;
+}
+
+#card4{
+	background: url('../images/4.svg') no-repeat center;
+}
+
+#card5{
+	background: url('../images/5.svg') no-repeat center;
+}
+
+#card6{
+	background: url('../images/6.svg') no-repeat center;
+}
+
+#card7{
+	background: url('../images/7.svg') no-repeat center;
+}
+
+#card8{
+	background: url('../images/8.svg') no-repeat center;
+}
+
+#card9{
+	background: url('../images/9.svg') no-repeat center;
+}
+
+#card10{
+	background: url('../images/10.svg') no-repeat center;
+}
