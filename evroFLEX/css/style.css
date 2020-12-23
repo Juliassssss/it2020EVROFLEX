@@ -705,3 +705,117 @@ p.blok1_logo_txt{
 	box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.24), 0px 2px 4px rgba(0, 0, 0, 0.24);
 	border-radius: 2px;
 }
+
+.blok4{
+	position: absolute;
+	width: 1680px;
+	height: 1032px;
+	left: 0px;
+	top: 2920px;
+	background: url('../images/image.svg') no-repeat center;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	align-items: center;
+}
+
+.blok4_h{
+	position: absolute;
+	width: 580px;
+	height: 38px;
+	left: 662px;
+	top: 60px;
+	font-weight: 500;
+	font-size: 32px;
+	line-height: 37px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	color: #646566;
+}
+
+.blok4_tetx{
+	position: absolute;
+	width: 980px;
+	height: 620px;
+	left: 350px;
+	top: 125px;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	align-items: center;
+	justify-content: flex-start;
+}
+
+#blok4_text_content{
+	position: absolute;
+	margin-top: 20px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 25px;
+	color: #646566;
+}
+
+#blok4_text_1{
+	position: absolute;
+	width: 980px;
+	height: 26px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 25px;
+	display: flex;
+	align-items: center;
+	text-decoration-line: underline;
+	color: #FF5C5C;
+	margin-top: 400px;
+}
+
+.utp{
+	position: absolute;
+	width: 1003px;
+	height: 124px;
+	left: 350px;
+	top: 621px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+.element{
+	width: 202px;
+	height: 124px;
+	flex-direction: column;
+	align-content: center;
+	align-items: center;
+	justify-content: flex-start;
+	margin-right: 60px;
+}
+
+.procent{
+	position: absolute;
+	width: 172px;
+	height: 59px;
+	font-weight: bold;
+	font-size: 41px;
+	line-height: 59px;
+	display: flex;
+	align-items: flex-start;
+	color: #FF5C5C;
+}
+
+.procent_txt{
+	position: absolute;
+	width: 200px;
+	height: 55px;
+	top:69px;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 18px;
+	display: flex;
+	align-items: flex-start;
+	color: #646566;
+}
