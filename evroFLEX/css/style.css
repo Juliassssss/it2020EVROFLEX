@@ -819,3 +819,76 @@ p.blok1_logo_txt{
 	align-items: flex-start;
 	color: #646566;
 }
+
+.blok5{
+	position: absolute;
+	width: 1180px;
+	height: 510px;
+	left: 250px;
+	top: 4052px;
+	flex-direction: column;
+	align-content: center;
+	align-items: center;
+}
+
+#blok5_h{
+	width: 580px;
+	height: 38px;
+	margin-left: 300px;
+	font-weight: 500;
+	font-size: 32px;
+	line-height: 37px;
+	align-items: center;
+	text-align: center;
+	color: #646566;
+}
+
+.blok5_content{
+	width: 1180px;
+	height: 392px;
+	top: 118px;
+	flex-direction: column;
+	align-content: center;
+	align-items: center;
+	margin-top: 80px;
+}
+
+.blok5_row{
+	width: 1180px;
+	height: 156px;
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 80px;
+}
+
+.blok5_element{
+	width: 280px;
+	height: 156px;
+	margin-right: 20px;
+	flex-direction: column;
+	align-content: center;
+	text-align: center;
+}
+
+.blok5_content_text{
+	width: 280px;
+	height: 47px;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 23px;
+	align-items: center;
+	text-align: center;
+	letter-spacing: 0.04em;
+	text-transform: uppercase;
+	color: #444444;
+	margin-top: 19px;
+	background-color: #FFA3;
+}
+
+.blok5_img{
+	margin-left: 95px;
+	margin-right: 94px;
+}
