@@ -113,6 +113,16 @@ p.blok1_logo_txt{
 	border-radius: 2px;
 }
 
+.phone-butt:active{
+	position: absolute;
+	width: 145px;
+	height: 24px;
+	left: 1283px;
+	top: 59px;
+	background-color: #FF5C5C;
+	border-radius: 2px;
+}
+
 .phone-butt p{
 	font-weight: normal;
 	font-size: 14px;
@@ -178,7 +188,7 @@ p.blok1_logo_txt{
 }
 
 
-#spec-predl-butt{
+.spec-predl-butt{
 	position: absolute;
 	width: 300px;
 	height: 50px;
@@ -189,7 +199,18 @@ p.blok1_logo_txt{
 	border-radius: 2px;
 }
 
-#spec-predl-butt p{
+.spec-predl-butt:active{
+	position: absolute;
+	width: 298px;
+	height: 46px;
+	left: 65px;
+	top: 407px;
+	background: #FF5C5C;
+	box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.26), 0px 2px 4px rgba(0, 0, 0, 0.24);
+	border-radius: 2px;
+}
+
+.spec-predl-butt_txt{
 	justify-content: center;
 	font-family: Roboto;
 	font-style: normal;
@@ -430,6 +451,13 @@ p.blok1_logo_txt{
 	height: 42px;
 	margin-left: 0px;
 }
+#left_img:active{
+	margin-top: 103px;
+	width: 50px;
+	height: 50px;
+	margin-left: 0px;
+}
+
 
 #content_img{
 	margin-left: 58px;
@@ -446,6 +474,15 @@ p.blok1_logo_txt{
 	margin-right: 0px;
 	margin-left: 58px;
 }
+
+#right_img:active{
+	margin-top: 103px;
+	width: 50px;
+	height: 50px;
+	margin-right: 0px;
+	margin-left: 58px;
+}
+
 
 #slader_h{
 	position: absolute;
@@ -482,6 +519,24 @@ p.blok1_logo_txt{
 	box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.16), 0px 2px 4px rgba(0, 0, 0, 0.24);
 	border-radius: 4px;
 }
+
+#slader_butt:active{
+	position: absolute;
+	width: 287px;
+	height: 47px;
+	margin-top: 157px;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 22px;
+	color: #FF5C5C;
+	border-radius: 5px;
+	background: #FFFFFF;
+	border: 2px solid #FF5A5E;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.16), 0px 2px 4px rgba(0, 0, 0, 0.24);
+	border-radius: 4px;
+}
+
 
 .blok3{
 	position: absolute;
@@ -885,7 +940,6 @@ p.blok1_logo_txt{
 	text-transform: uppercase;
 	color: #444444;
 	margin-top: 19px;
-	background-color: #FFA3;
 }
 
 .blok5_img{
