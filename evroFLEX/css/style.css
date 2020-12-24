@@ -946,3 +946,73 @@ p.blok1_logo_txt{
 	margin-left: 95px;
 	margin-right: 94px;
 }
+
+.blok6{
+	position: absolute;
+	width: 1680px;
+	height: 528px;
+	left: 0px;
+	top: 4677px;
+	background: url('../images/Mask Group.svg') no-repeat center;
+}
+
+#spec-pred2{
+	position: absolute;
+	width: 430px;
+	height: 513px;
+	left: 1000px;
+	top: 4649px;
+	background: #FFFFFF;
+	box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.16), 0px 2px 4px rgba(0, 0, 0, 0.24);
+	border-radius: 2px;
+}
+
+.blok6_content{
+	width: 590px;
+	height: 172px;
+	margin-top: 238px;
+	margin-left: 250px;
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	align-items: center;
+}
+
+.blok6_content_row{
+	width: 300px;
+	height: 172px;
+	margin-right: 42px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.blok6_element{
+	width: 300px;
+	height: 24px;
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	align-items: center;
+}
+
+.blok6_item_text{
+	margin-left: 20px;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 23px;
+	display: flex;
+	align-items: center;
+	text-decoration-line: underline;
+	color: #EDEFF2;
+}
+
+.blok6_item{
+	width: 18px;
+	height: 18px;
+	background: #FFFFFF;
+	border: 1px solid #FFAEAE;
+	box-sizing: border-box;
+	box-shadow: inset 1px 1px 4px rgba(0, 0, 0, 0.5);
+	border-radius: 4px;
+}
