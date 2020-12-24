@@ -1016,3 +1016,26 @@ p.blok1_logo_txt{
 	box-shadow: inset 1px 1px 4px rgba(0, 0, 0, 0.5);
 	border-radius: 4px;
 }
+
+.footer{
+	position: absolute;
+	width: 1680px;
+	height: 164px;
+	left: 0px;
+	top: 5205px;
+	background: url('../images/footer.svg') no-repeat center;
+}
+
+.footer_content{
+	position: absolute;
+	width: 780px;
+	height: 57px;
+	left: 250px;
+	top: 54px;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 15px;
+	display: flex;
+	align-items: center;
+	color: #4F4F4F;
+}
