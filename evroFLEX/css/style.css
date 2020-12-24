@@ -1039,3 +1039,77 @@ p.blok1_logo_txt{
 	align-items: center;
 	color: #4F4F4F;
 }
+
+.slader2{
+	position: absolute;
+	width: 1180px;
+	height: 107px;
+	left: 250px;
+	top: 806px;
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+}
+
+#sl_left_img{
+	width: 42px;
+	height: 42px;
+	margin-top: 32px;
+	margin-right: 61px;
+}
+
+#sl_right_img{
+	width: 42px;
+	height: 42px;
+	margin-top: 32px;
+}
+
+#sl_left_img:active{
+	width: 45px;
+	height: 45px;
+	margin-top: 31px;
+	margin-right: 60px;
+}
+
+#sl_right_img:active{
+	width: 45px;
+	height: 45px;
+	margin-top: 31px;
+}
+
+.slader1_content{
+	width: 1003px;
+	height: 107px;
+	margin-right: 61px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	justify-content: space-between;
+}
+
+.slader1_img{
+	width: 180px;
+	height: 107px;
+}
+
+.circles{
+	width: 160px;
+	height: 10px;
+	left: 760px;
+	margin-top: 962px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	justify-content: space-between;
+}
+
+#radioButton{
+	width: 10px;
+	height: 10px;
+	background: url('../images/radio1.svg') no-repeat center;
+}
+#radioButton1{
+	width: 10px;
+	height: 10px;
+	background: url('../images/radio.svg') no-repeat center;
+}
